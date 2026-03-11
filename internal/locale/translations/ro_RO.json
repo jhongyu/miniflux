@@ -199,6 +199,7 @@
     "form.feed.label.ntfy_min_priority": "Prioritate minimă Ntfy",
     "form.feed.label.ntfy_priority": "Prioritate Ntfy",
     "form.feed.label.ntfy_topic": "Subiect Ntfy (opțional)",
+    "form.feed.label.priority": "Prioritate de sortare",
     "form.feed.label.proxy_url": "URL Proxy",
     "form.feed.label.pushover_activate": "Activează Pushover",
     "form.feed.label.pushover_default_priority": "Prioritate implicită Pushover",

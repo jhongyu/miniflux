@@ -193,6 +193,7 @@
     "form.feed.label.ntfy_min_priority": "Prioritas minimal Ntfy",
     "form.feed.label.ntfy_priority": "Prioritas Ntfy",
     "form.feed.label.ntfy_topic": "Topik Ntfy (opsional)",
+    "form.feed.label.priority": "Prioritas penyortiran",
     "form.feed.label.proxy_url": "URL Proksi",
     "form.feed.label.pushover_activate": "Kirim artikel ke pushover.net",
     "form.feed.label.pushover_default_priority": "Prioritas baku Pushover",

@@ -193,6 +193,7 @@
     "form.feed.label.ntfy_min_priority": "Ntfy siōng kē iu-sian sūn-sū",
     "form.feed.label.ntfy_priority": "Ntfy iu-sian sūn-sū",
     "form.feed.label.ntfy_topic": "Ntfy topic (soán thiⁿ)",
+    "form.feed.label.priority": "Iu-sian pâi-lia̍t sūn-sū",
     "form.feed.label.proxy_url": "Proxy ê URL",
     "form.feed.label.pushover_activate": "Pó-chûn siau-sit kàu pushover.net",
     "form.feed.label.pushover_default_priority": "Pushover ū-siat iu-sian sūn-sū",

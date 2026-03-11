@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Prioridade mín. Ntfy",
     "form.feed.label.ntfy_priority": "Prioridade en Ntfy",
     "form.feed.label.ntfy_topic": "Tema en Ntfy (optativo)",
+    "form.feed.label.priority": "Prioridade de clasificación",
     "form.feed.label.proxy_url": "URL do mandatario",
     "form.feed.label.pushover_activate": "Enviar novidades a Pushover",
     "form.feed.label.pushover_default_priority": "Prioridade predeterminada",

@@ -115,6 +115,7 @@ func (h *handler) submitSubscription(w http.ResponseWriter, r *http.Request) {
 				FetchViaProxy:               subscriptionForm.FetchViaProxy,
 				DisableHTTP2:                subscriptionForm.DisableHTTP2,
 				ProxyURL:                    subscriptionForm.ProxyURL,
+				Priority:                    subscriptionForm.Priority,
 			},
 		})
 		if localizedError != nil {
@@ -146,6 +147,7 @@ func (h *handler) submitSubscription(w http.ResponseWriter, r *http.Request) {
 			FetchViaProxy:               subscriptionForm.FetchViaProxy,
 			DisableHTTP2:                subscriptionForm.DisableHTTP2,
 			ProxyURL:                    subscriptionForm.ProxyURL,
+			Priority:                    subscriptionForm.Priority,
 		})
 		if localizedError != nil {
 			v.Set("form", subscriptionForm)

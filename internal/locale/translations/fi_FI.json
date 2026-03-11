@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Ntfy-vähimmäisprioriteetti",
     "form.feed.label.ntfy_priority": "Ntfy-prioriteetti",
     "form.feed.label.ntfy_topic": "Ntfy-aihe (valinnainen)",
+    "form.feed.label.priority": "Lajitteluprioriteetti",
     "form.feed.label.proxy_url": "Välityspalvelimen URL",
     "form.feed.label.pushover_activate": "Lähetä merkinnät pushover.net-palveluun",
     "form.feed.label.pushover_default_priority": "Pushover-oletusprioriteetti",

@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Ελάχιστη προτεραιότητα Ntfy",
     "form.feed.label.ntfy_priority": "Προτεραιότητα Ntfy",
     "form.feed.label.ntfy_topic": "Θέμα Ntfy (προαιρετικό)",
+    "form.feed.label.priority": "Προτεραιότητα ταξινόμησης",
     "form.feed.label.proxy_url": "Διεύθυνση URL διακομιστή μεσολάβησης",
     "form.feed.label.pushover_activate": "Προώθηση καταχωρήσεων στο pushover.net",
     "form.feed.label.pushover_default_priority": "Προεπιλεγμένη προτεραιότητα Pushover",

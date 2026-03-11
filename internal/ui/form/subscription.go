@@ -32,6 +32,7 @@ type SubscriptionForm struct {
 	KeepFilterEntryRules        string
 	DisableHTTP2                bool
 	ProxyURL                    string
+	Priority                    int
 }
 
 // Validate makes sure the form values locale.are valid.
@@ -70,6 +71,11 @@ func NewSubscriptionForm(r *http.Request) *SubscriptionForm {
 		categoryID = 0
 	}
 
+	priority, err := strconv.Atoi(r.FormValue("priority"))
+	if err != nil {
+		priority = 1
+	}
+
 	return &SubscriptionForm{
 		URL:                         r.FormValue("url"),
 		CategoryID:                  int64(categoryID),
@@ -90,5 +96,6 @@ func NewSubscriptionForm(r *http.Request) *SubscriptionForm {
 		BlockFilterEntryRules:       r.FormValue("block_filter_entry_rules"),
 		DisableHTTP2:                r.FormValue("disable_http2") == "1",
 		ProxyURL:                    r.FormValue("proxy_url"),
+		Priority:                    int(priority),
 	}
 }

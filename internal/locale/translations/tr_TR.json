@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Ntfy minimum öncelik",
     "form.feed.label.ntfy_priority": "Ntfy öncelik",
     "form.feed.label.ntfy_topic": "Ntfy konusu (isteğe bağlı)",
+    "form.feed.label.priority": "Sıralama önceliği",
     "form.feed.label.proxy_url": "Proxy URL",
     "form.feed.label.pushover_activate": "Makaleleri pushover.net'e gönder",
     "form.feed.label.pushover_default_priority": "Pushover varsayılan öncelik",

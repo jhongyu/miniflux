@@ -66,6 +66,9 @@
             <label for="form-description">{{ t "form.feed.label.description" }}</label>
             <textarea name="description" id="form-description" cols="40" rows="10" >{{ .form.Description }}</textarea>
 
+            <label for="form-priority">{{ t "form.feed.label.priority" }}</label>
+            <input type="number" name="priority" id="form-priority" value="{{ .form.Priority }}">
+
             {{ if not .form.CategoryHidden }}
             <label><input type="checkbox" name="hide_globally" value="1"{{ if .form.HideGlobally }} checked{{ end }}> {{ t "form.feed.label.hide_globally" }}</label>
             {{ end }}

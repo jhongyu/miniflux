@@ -199,6 +199,7 @@
     "form.feed.label.ntfy_min_priority": "Мінімальний пріоритет ntfy",
     "form.feed.label.ntfy_priority": "Пріоритет ntfy",
     "form.feed.label.ntfy_topic": "Тема ntfy (необов’язково)",
+    "form.feed.label.priority": "Пріоритет сортування",
     "form.feed.label.proxy_url": "URL-адреса проксі",
     "form.feed.label.pushover_activate": "Надсилати записи у pushover.net",
     "form.feed.label.pushover_default_priority": "Стандартний пріоритет Pushover",

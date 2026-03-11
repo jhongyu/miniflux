@@ -193,6 +193,7 @@
     "form.feed.label.ntfy_min_priority": "Ntfy 最低优先级",
     "form.feed.label.ntfy_priority": "Ntfy 优先级",
     "form.feed.label.ntfy_topic": "Ntfy 主题（可选）",
+    "form.feed.label.priority": "排序优先级",
     "form.feed.label.proxy_url": "代理 URL",
     "form.feed.label.pushover_activate": "推送条目到 Pushover",
     "form.feed.label.pushover_default_priority": "Pushover 默认优先级",

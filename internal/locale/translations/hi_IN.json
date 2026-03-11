@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Ntfy न्यूनतम प्राथमिकता",
     "form.feed.label.ntfy_priority": "Ntfy प्राथमिकता",
     "form.feed.label.ntfy_topic": "Ntfy विषय (वैकल्पिक)",
+    "form.feed.label.priority": "सॉर्ट प्राथमिकता",
     "form.feed.label.proxy_url": "प्रॉक्सी URL",
     "form.feed.label.pushover_activate": "प्रविष्टियाँ pushover.net पर भेजें",
     "form.feed.label.pushover_default_priority": "Pushover डिफ़ॉल्ट प्राथमिकता",

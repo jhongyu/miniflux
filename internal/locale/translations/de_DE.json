@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Niedrigste Ntfy-Priorität",
     "form.feed.label.ntfy_priority": "Ntfy-Priorität",
     "form.feed.label.ntfy_topic": "Ntfy-Thema (optional)",
+    "form.feed.label.priority": "Sortierpriorität",
     "form.feed.label.proxy_url": "Proxy-URL",
     "form.feed.label.pushover_activate": "Artikel an pushover.net senden",
     "form.feed.label.pushover_default_priority": "Pushover-Standardpriorität",

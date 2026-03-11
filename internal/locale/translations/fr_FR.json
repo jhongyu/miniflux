@@ -196,6 +196,7 @@
     "form.feed.label.ntfy_min_priority": "Priorité minimale de notification",
     "form.feed.label.ntfy_priority": "Priorité de notification",
     "form.feed.label.ntfy_topic": "Sujet Ntfy (facultatif)",
+    "form.feed.label.priority": "Priorité de tri",
     "form.feed.label.proxy_url": "URL du proxy",
     "form.feed.label.pushover_activate": "Activer les notifications vers Pushover",
     "form.feed.label.pushover_default_priority": "Priorité par défaut",

@@ -208,6 +208,7 @@
     "form.feed.label.ntfy_min_priority": "أدنى أولوية Ntfy",
     "form.feed.label.ntfy_priority": "أولوية Ntfy",
     "form.feed.label.ntfy_topic": "موضوع Ntfy (اختياري)",
+    "form.feed.label.priority": "أولوية الفرز",
     "form.feed.label.proxy_url": "رابط الوكيل (Proxy)",
     "form.feed.label.pushover_activate": "إرسال المقالات إلى Pushover",
     "form.feed.label.pushover_default_priority": "الأولوية الافتراضية",

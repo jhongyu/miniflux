@@ -193,6 +193,7 @@
     "form.feed.label.ntfy_min_priority": "ntfy 最小優先度",
     "form.feed.label.ntfy_priority": "ntfy 優先度",
     "form.feed.label.ntfy_topic": "ntfy トピック（任意）",
+    "form.feed.label.priority": "並べ替えの優先度",
     "form.feed.label.proxy_url": "プロキシ URL",
     "form.feed.label.pushover_activate": "エントリを pushover.net に送信",
     "form.feed.label.pushover_default_priority": "Pushover 既定の優先度",
