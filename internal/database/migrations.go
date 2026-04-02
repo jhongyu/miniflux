@@ -1428,11 +1428,11 @@ var migrations = [...]func(tx *sql.Tx) error{
 		return err
 	},
 	func(tx *sql.Tx) (err error) {
-		_, err = tx.Exec(`ALTER TABLE feeds ADD COLUMN ignore_entry_updates bool default 'f'`)
+		_, err = tx.Exec(`ALTER TABLE feeds ADD COLUMN priority int default 0`)
 		return err
 	},
 	func(tx *sql.Tx) (err error) {
-		_, err = tx.Exec(`ALTER TABLE feeds ADD COLUMN priority int default 0`)
+		_, err = tx.Exec(`ALTER TABLE feeds ADD COLUMN ignore_entry_updates bool default 'f'`)
 		return err
 	},
 }
